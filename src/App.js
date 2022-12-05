@@ -50,11 +50,11 @@ export default function App() {
           </div>
           <div className="weatherForecast" id="forecast"></div>
           <div>
-            <a href="https://github.com/Gloria-orji/new-weather-app">
+            <a href="https://github.com/Gloria-orji/weather-react">
               opensource on GitHub
             </a>
             and
-            <a href="https://dazzling-bombolone-3f6e21.netlify.app/">
+            <a href="https://incomparable-torte-167543.netlify.app/">
               hosted on Netlify
             </a>
             by Gloria Orji
